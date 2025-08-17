@@ -5,3 +5,6 @@ def home():
  return "Hello, Docker!  I am amoda rivindu please let us know if you need any help with docker or anything else."
 if __name__ == "__main__":
  app.run(host="0.0.0.0", port=5000)
+# To run this Flask app, use the command: python app.py
+# Make sure Flask is installed in your environment.
+# You can install Flask using pip: pip install Flask
